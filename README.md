@@ -71,7 +71,7 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
       <h3 align="center">AI Image Generator (DALL-E Clone)</h3>
       <div align="center">
         <a href="https://github.com/rajdavee/mern-dalle" target="_blank">
-          <img src="https://raw.githubusercontent.com/rajdavee/rajdavee/main/project-images/dalle-clone.jpg" width="100%" alt="DALL-E Clone"/>
+          <img src="https://opengraph.githubassets.com/1/rajdavee/mern-dalle" width="100%" alt="DALL-E Clone"/>
         </a>
         <p>
           <a href="https://github.com/rajdavee/mern-dalle" target="_blank">
@@ -88,7 +88,7 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
       <h3 align="center">RAG Chatbot with OpenAI</h3>
       <div align="center">
         <a href="https://github.com/rajdavee/first-RAG-Chatbot-with-openai" target="_blank">
-          <img src="https://raw.githubusercontent.com/rajdavee/rajdavee/main/project-images/rag-chatbot.jpg" width="100%" alt="RAG Chatbot"/>
+          <img src="https://opengraph.githubassets.com/1/rajdavee/first-RAG-Chatbot-with-openai" width="100%" alt="RAG Chatbot"/>
         </a>
         <p>
           <a href="https://github.com/rajdavee/first-RAG-Chatbot-with-openai" target="_blank">
@@ -107,7 +107,7 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
       <h3 align="center">Professional Portfolio</h3>
       <div align="center">
         <a href="https://github.com/rajdavee/portfolio" target="_blank">
-          <img src="https://raw.githubusercontent.com/rajdavee/rajdavee/main/project-images/portfolio.jpg" width="100%" alt="Portfolio"/>
+          <img src="https://opengraph.githubassets.com/1/rajdavee/portfolio" width="100%" alt="Portfolio"/>
         </a>
         <p>
           <a href="https://github.com/rajdavee/portfolio" target="_blank">
@@ -124,7 +124,7 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
       <h3 align="center">More Projects</h3>
       <div align="center">
         <a href="https://github.com/rajdavee?tab=repositories" target="_blank">
-          <img src="https://raw.githubusercontent.com/rajdavee/rajdavee/main/project-images/more-projects.jpg" width="100%" alt="More Projects"/>
+          <img src="https://opengraph.githubassets.com/1/rajdavee/repositories" width="100%" alt="More Projects"/>
         </a>
         <p>
           <a href="https://github.com/rajdavee?tab=repositories" target="_blank">
@@ -144,7 +144,7 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
   <br />
   <p align="center">
     <a href="https://skyline.github.com/rajdavee/2023" target="_blank">
-      <img src="https://skyline.github.com/rajdavee/2023.png" alt="Raj's GitHub Skyline" width="600" />
+      <img src="https://i.imgur.com/rS9QFJe.png" alt="Raj's GitHub Skyline" width="600" />
     </a>
   </p>
   <p align="center">👆 Click the image to view my contributions in 3D!</p>
@@ -190,12 +190,11 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
 </details>
 
 <details>
-  <summary>🧩 Try the Snake Game!</summary>
+  <summary>🧩 Snake Animation - Watch as I consume contributions!</summary>
   <br />
   <p align="center">
-    <img src="https://raw.githubusercontent.com/rajdavee/rajdavee/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </p>
-  <p align="center">Watch the snake eat my contributions! This animation is auto-generated using GitHub Actions.</p>
 </details>
 
 ## 📝 Latest Blog Posts
@@ -209,7 +208,7 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
 - [Next.js 13: Server Components and App Directory](https://medium.com/@rajdave/nextjs-13-server-components-and-app-directory-d7e902343bae)
 <!-- BLOG-POST-LIST:END -->
 
-## 📌 Latest GitHub Commits
+## 📌 GitHub Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdavee&theme=react-dark" alt="Raj's Activity Graph" width="100%" />
@@ -221,81 +220,6 @@ I'm a passionate Software Engineer specializing in AI/ML applications and full-s
   <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
 </p>
 
-<!-- This script creates an interactive typing effect -->
-<div align="center" id="typing-effect">
-  <font size="5">
-    <span id="welcome-text"></span><span class="cursor">|</span>
-  </font>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
-<script>
-  // Interactive typing effect
-  const welcomeText = "Thanks for visiting my GitHub profile!";
-  let i = 0;
-  const speed = 100;
-
-  function typeWriter() {
-    if (i < welcomeText.length) {
-      document.getElementById("welcome-text").innerHTML += welcomeText.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  if (typeof window !== 'undefined') {
-    window.onload = function() {
-      typeWriter();
-    };
-  }
-
-  // Easter egg
-  const easterEgg = () => {
-    let keys = [];
-    const konami = 'raj';
-    
-    window.addEventListener('keydown', (e) => {
-      keys.push(e.key.toLowerCase());
-      if (keys.length > konami.length) {
-        keys.shift();
-      }
-      if (keys.join('') === konami) {
-        alert('🎉 You found the Easter egg! Hello from Raj Dave!');
-      }
-    });
-  };
-  
-  if (typeof window !== 'undefined') {
-    easterEgg();
-  }
-
-  // Add interactive behavior to project cards
-  document.querySelectorAll('table td').forEach(card => {
-    card.addEventListener('mouseenter', () => {
-      card.style.transform = 'translateY(-5px)';
-      card.style.transition = 'transform 0.3s ease';
-    });
-    
-    card.addEventListener('mouseleave', () => {
-      card.style.transform = 'translateY(0)';
-    });
-  });
-</script>
-
-<style>
-  table td {
-    transition: transform 0.3s ease;
-  }
-  
-  table td:hover {
-    transform: translateY(-5px);
-  }
-  
-  .cursor {
-    animation: blink 1s infinite;
-  }
-  
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
