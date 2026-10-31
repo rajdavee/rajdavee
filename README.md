@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:ff3cac&height=220&section=header&text=RAJ&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=main%20character%20of%20the%20commit%20history&descSize=20&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="./assets/dp.png" width="140" alt="raj" />
+  <img src="./assets/dp.gif" width="180" alt="raj" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ $ cat /proc/raj/stats
 ### 🧠 daily brain rot
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117&textColor=c9d1d9&qColor=a855f7&aColor=ff3cac" alt="dev joke" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23e6edf3&qColor=%23a855f7&aColor=%23ff3cac&borderColor=%23a855f7" alt="dev joke" />
 </p>
 
 ### 📡 slide into the DMs
