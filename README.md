@@ -1,225 +1,62 @@
-# 👋 Hi, I'm Raj Dave
-
-> Software Engineer | AI Enthusiast | Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a855f7,100:ff3cac&height=200&section=header&text=yo,%20it's%20raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=certified%20code%20goblin%20%E2%80%A2%20vibes%20%3E%20bugs&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajdavee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://portfolio-raj-24642cc0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen" alt="Portfolio"></a>
-  <a href="https://github.com/rajdavee?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20All-blue" alt="Repositories"></a>
+  <img src="./assets/dp.png" width="150" alt="raj" />
 </p>
 
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=rajdavee" alt="Contribution Stats" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate Software Engineer specializing in AI/ML applications and full-stack development. I love building innovative solutions that leverage cutting-edge technologies to solve real-world problems. My expertise spans MERN stack, AI integration, and building interactive web applications.
-
-- 🔭 I'm currently working on **AI-powered applications** and **Full-stack web solutions**
-- 🌱 I'm currently mastering **RAG architectures**, **OpenAI integrations**, and **Cloud deployments**
-- 💬 Ask me about **React, Node.js, AI/ML integration, and MERN stack development**
-- 📫 How to reach me: **rajdave710@gmail.com**
-
-<details>
-  <summary>🧠 My Development Philosophy</summary>
-  <br/>
-  <p>
-    I believe in creating elegant, scalable, and user-centered applications. My approach combines strong technical fundamentals with continuous learning and adaptation to emerging technologies. I'm particularly passionate about AI ethics and making technology accessible to all users.
-  </p>
-</details>
-
-## 📱 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/rajdavee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdavee" height="30" width="40" /></a>
-  <a href="https://github.com/rajdavee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rajdavee" height="30" width="40" /></a>
-  <a href="https://twitter.com/raj_dave_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raj_dave_dev" height="30" width="40" /></a>
-  <a href="https://medium.com/@rajdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajdave" height="30" width="40" /></a>
-  <a href="https://dev.to/rajdave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajdave" height="30" width="40" /></a>
-</p>
-
-## 💻 Skills & Technologies
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,nextjs,tailwind,python,typescript,git,github,vercel" alt="My Skills" />
+<p align="center">
+  <a href="https://github.com/rajdavee">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=ships+code+at+3am+%F0%9F%8C%99;no+cap%2C+it+works+on+my+machine;main+character+energy+only+%F0%9F%97%BF;touching+grass+is+a+side+quest;git+push+--force+(jk...+unless%3F)" alt="typing" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technologies%20I%20Use&align=center&lineCount=2&theme=github_dark&line1=react,react,61DAFB;node.js,node.js,339933;mongodb,mongodb,47A248;express,express,000000;&line2=javascript,javascript,F7DF1E;python,python,3776AB;next.js,next.js,000000;openai,openai,412991;" alt="Tech Stack" />
-</div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <!-- Using metrics.lecoq.io for rich GitHub metrics -->
-  <img src="https://metrics.lecoq.io/rajdavee?template=classic&base.header=0&isocalendar=1&languages=1&achievements=1&activity=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FKolkata" width="70%" alt="Raj's GitHub Metrics" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdavee&show_icons=true&theme=radical&count_private=true" alt="Raj's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdavee&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Raj's GitHub streak" width="48%" />
-</div>
-
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI Image Generator (DALL-E Clone)</h3>
-      <div align="center">
-        <a href="https://github.com/rajdavee/mern-dalle" target="_blank">
-          <img src="https://opengraph.githubassets.com/1/rajdavee/mern-dalle" width="100%" alt="DALL-E Clone"/>
-        </a>
-        <p>
-          <a href="https://github.com/rajdavee/mern-dalle" target="_blank">
-            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <a href="https://mern-dalle-demo.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/-Live-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>MERN Stack, OpenAI API, Cloudinary</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">RAG Chatbot with OpenAI</h3>
-      <div align="center">
-        <a href="https://github.com/rajdavee/first-RAG-Chatbot-with-openai" target="_blank">
-          <img src="https://opengraph.githubassets.com/1/rajdavee/first-RAG-Chatbot-with-openai" width="100%" alt="RAG Chatbot"/>
-        </a>
-        <p>
-          <a href="https://github.com/rajdavee/first-RAG-Chatbot-with-openai" target="_blank">
-            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <a href="https://rag-chatbot-demo.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/-Live-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>OpenAI, LangChain, Next.js</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Professional Portfolio</h3>
-      <div align="center">
-        <a href="https://github.com/rajdavee/portfolio" target="_blank">
-          <img src="https://opengraph.githubassets.com/1/rajdavee/portfolio" width="100%" alt="Portfolio"/>
-        </a>
-        <p>
-          <a href="https://github.com/rajdavee/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white" />
-          </a>
-          <a href="https://portfolio-raj-24642cc0.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Live-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>React, Next.js, Tailwind CSS, Three.js</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">More Projects</h3>
-      <div align="center">
-        <a href="https://github.com/rajdavee?tab=repositories" target="_blank">
-          <img src="https://opengraph.githubassets.com/1/rajdavee/repositories" width="100%" alt="More Projects"/>
-        </a>
-        <p>
-          <a href="https://github.com/rajdavee?tab=repositories" target="_blank">
-            <img src="https://img.shields.io/badge/-View%20All-000?style=flat-square&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>Various Technologies</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🎲 Interactive Elements
-
-<details>
-  <summary>🎮 GitHub Skyline - My Contribution in 3D!</summary>
-  <br />
-  <p align="center">
-    <a href="https://skyline.github.com/rajdavee/2023" target="_blank">
-      <img src="https://i.imgur.com/rS9QFJe.png" alt="Raj's GitHub Skyline" width="600" />
-    </a>
-  </p>
-  <p align="center">👆 Click the image to view my contributions in 3D!</p>
-</details>
-
-<details>
-  <summary>🎯 GitHub Achievements</summary>
-  <br />
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajdavee&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Achievements" />
-  </p>
-</details>
-
-<details>
-  <summary>⚡ Recent Activity</summary>
-  <br />
-  
-  <!--RECENT_ACTIVITY:start-->
-  1. ⭐ Starred [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-  2. 🎉 Merged PR [#15](https://github.com/rajdavee/first-RAG-Chatbot-with-openai/pull/15)
-  3. 💪 Opened PR [#15](https://github.com/rajdavee/first-RAG-Chatbot-with-openai/pull/15)
-  4. 🔍 Reviewed PR [#7](https://github.com/rajdavee/mern-dalle/pull/7)
-  5. 🤝 Connected with [aidevs/awesome-generative-ai](https://github.com/aidevs/awesome-generative-ai)
-  <!--RECENT_ACTIVITY:end-->
-  
-</details>
-
-<details>
-  <summary>📊 Coding Time Breakdown</summary>
-  <br />
-  
-  <!--START_SECTION:waka-->
-  ```text
-  React        12 hrs 42 mins  ████████████░░░░░░░░░  46.5%
-  JavaScript   5 hrs 30 mins   ████████░░░░░░░░░░░░░  20.1%
-  TypeScript   3 hrs 45 mins   █████░░░░░░░░░░░░░░░░  13.7%
-  Python       2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░   8.6%
-  CSS/SCSS     1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░   7.0%
-  Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░   4.1%
-  ```
-  <!--END_SECTION:waka-->
-  
-</details>
-
-<details>
-  <summary>🧩 Snake Animation - Watch as I consume contributions!</summary>
-  <br />
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  </p>
-</details>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Building a DALL-E Clone with MERN Stack](https://medium.com/@rajdave/building-dalle-clone-with-mern-stack-468a92ff8e70)
-- [Understanding RAG: Enhancing LLMs with External Knowledge](https://dev.to/rajdave/understanding-rag-enhancing-llms-with-external-knowledge-2l7p)
-- [Creating Interactive 3D Websites with Three.js](https://medium.com/@rajdave/creating-interactive-3d-websites-with-threejs-675df9c44485)
-- [Optimizing MongoDB for Large-Scale Applications](https://dev.to/rajdave/optimizing-mongodb-for-large-scale-applications-4e6m)
-- [Next.js 13: Server Components and App Directory](https://medium.com/@rajdave/nextjs-13-server-components-and-app-directory-d7e902343bae)
-<!-- BLOG-POST-LIST:END -->
-
-## 📌 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdavee&theme=react-dark" alt="Raj's Activity Graph" width="100%" />
-</div>
+</p>
 
 ---
 
+### 🗿 who dis
+
+```js
+const raj = {
+  role:     "full-stack dev (and part-time bug whisperer)",
+  vibe:     "chill until prod goes down",
+  fuel:     ["chai", "lo-fi beats", "pure delusion"],
+  status:   "locked in 🔒",
+  motto:    "it's not a bug, it's a feature fr fr",
+};
+```
+
+- 🧠 lowkey obsessed with AI stuff
+- 🌙 most productive when i should be sleeping
+- 🎧 headphones on = do not disturb, i'm cooking
+- 💀 my code comments are just me talking to myself
+
+### 🛠️ the arsenal
+
 <p align="center">
-  <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,tailwind,mongodb,postgres,redis,docker,git&perline=6&theme=dark" alt="stack" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+### 📊 the grind (receipts)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdavee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ff3cac&text_color=c9d1d9&count_private=true&hide_rank=false" height="165" />
+  <img src="https://streak-stats.demolab.com?user=rajdavee&hide_border=true&background=0d1117&ring=a855f7&fire=ff3cac&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajdavee/rajdavee/output/snake-dark.svg" alt="snake eating my commits" />
+</p>
+
+### 📡 slide in
+
+<p align="center">
+  <a href="https://linkedin.com/in/rajdavee"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a855f7" /></a>
+  <a href="https://twitter.com/raj_dave_dev"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ff3cac" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdavee&label=npcs%20who%20pulled%20up&color=a855f7&style=flat-square" />
+</p>
+
+<p align="center"><i>stay locked in. ✌️</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3cac,50:a855f7,100:0d1117&height=100&section=footer" width="100%" />
